@@ -2,6 +2,8 @@
 # Node & JavaScript ignores
 # -------------------------
 
+# Simple Ignore FIle
+
 # Dependency directories
 node_modules/
 backend/node_modules/
